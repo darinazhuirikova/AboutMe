@@ -278,3 +278,8 @@ input[type="text"] {
 .whitetext{
   color: white;
 }
+#result {
+    margin-top: 10px;
+    display: none;
+}
+
