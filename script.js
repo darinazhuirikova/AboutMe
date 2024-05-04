@@ -19,8 +19,6 @@ counter = 0;
 function cook(){
     let h1 = document.getElementById("restit")
     let cookInput = document.getElementById("cookInput")
-    if(counter == 0){
-        counter++;
  
         let text = cookInput.value
  
@@ -61,10 +59,6 @@ function cook(){
             h1.innerHTML = "не правильно, посмотри рецепт!"
         }
     }
-    if(counter == 1){
-         
-    }
-}
 function bakeCake() {
     document.getElementById('result').style.display = 'block';
 }
