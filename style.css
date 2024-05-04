@@ -1,3 +1,5 @@
+
+
 .flex{
     display: flex;
     text-align: center;
@@ -19,8 +21,8 @@
     text-align: center;
     text-align: left;
   }
-  
-  
+ 
+ 
   .hotpinktext3{
     margin-left: 600px;
     color: hotpink;
@@ -37,8 +39,8 @@
   .secondimage{
   height: 500px;
   text-align: left;
-  
-  
+ 
+ 
   }
   .thirdimage{
     height: 100px;
@@ -158,8 +160,8 @@
     cursor: pointer;
     border-radius: 5px;
   }
-  
-  
+ 
+ 
   .littletext2{
     color: lightpink;
     font-size: 35px;
@@ -167,8 +169,8 @@
     font-style: initial;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
-  
-  
+ 
+ 
   body{
     background-color: black;
   }
@@ -187,16 +189,16 @@
     border-radius: 5px;
     font-style: initial;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
-  
+ 
+ 
    }
    .btn2{
     margin-left: 100px;
-  
-  
+ 
+ 
    }
-  
-  
+ 
+ 
    .half {
     width: 50%; /* Каждая половина будет занимать 50% ширины */
     padding: 20px; /* Добавим немного отступа */
@@ -210,16 +212,16 @@
   .right {
     width: 45%; /* Ширина левой и правой части */
   }
-  
-  
+ 
+ 
   input[type="text"],
   button {
     display: block;
     width: 100%;
     margin-bottom: 10px;
   }
-  
-  
+ 
+ 
   .image7{
     max-width: 100%;
     height: auto;
@@ -228,11 +230,15 @@
     transition: 0.5s;
     box-shadow: 5px 5px 15px 10px #FFAACF;
   }
-  
+ 
 .gradient1{
  
   background: linear-gradient(to right, hotpink, black);
 }
+
+
+
+
 
 
 
@@ -247,6 +253,7 @@
   text-align: center;
 }
 
+
 input[type="text"] {
   width: 80%;
   padding: 10px;
@@ -254,6 +261,7 @@ input[type="text"] {
   margin-left: 10px;
   margin-right: 10px;
 }
+
 
 .buttontort {
   padding: 10px 20px;
@@ -265,6 +273,7 @@ input[type="text"] {
   margin-bottom: 10px;
   margin-left: 10px;
   margin-right: 10px;
+
 
 }
 .input-field {
@@ -278,6 +287,8 @@ input[type="text"] {
 .whitetext{
   color: white;
 }
+
+
 #result {
     margin-top: 10px;
     display: none;
